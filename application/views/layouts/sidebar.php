@@ -20,7 +20,7 @@
                 </li>
                 
                 <li>
-                  <a href="dashboard.html" >
+                  <a href="<?php ?>dashboard">
                     <span class="nav-icon">
                       <i class="material-icons">&#xe3fc;
                         <span ui-include="'../assets/images/i_0.svg'"></span>

@@ -1,3 +1,9 @@
 <?php  $header ?>
 <?php  $sidebar ?>
-<?php  $footer ?>
+<?php $navbar ?>
+<?php $dashboard ?>
+<?php $footer ?> 
+<?php  $js_under ?>
+
+
+

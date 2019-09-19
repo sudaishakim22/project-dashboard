@@ -1,0 +1,1 @@
+<div ui-view class="app-body" id="view"></div>
